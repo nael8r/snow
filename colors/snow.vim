@@ -61,8 +61,8 @@ if &background ==# 'dark'
   hi TabLineFill ctermfg=237 ctermbg=237 guifg=#363a3e guibg=#363a3e guisp=NONE cterm=NONE gui=NONE
   hi ToolbarLine ctermfg=237 ctermbg=237 guifg=#363a3e guibg=#363a3e guisp=NONE cterm=NONE gui=NONE
   hi VertSplit ctermfg=240 ctermbg=240 guifg=#535c65 guibg=#535c65 guisp=NONE cterm=NONE gui=NONE
-  hi SpellBad ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#df969e cterm=NONE,underline gui=NONE,undercurl
-  hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#7fb0df cterm=NONE,underline gui=NONE,undercurl
+  hi SpellBad ctermfg=NONE ctermbg=NONE guifg=#be868c guibg=NONE guisp=#df969e cterm=NONE,underline gui=NONE,undercurl
+  hi SpellCap ctermfg=NONE ctermbg=NONE guifg=#ab916d guibg=NONE guisp=#7fb0df cterm=NONE,underline gui=NONE,undercurl
   hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#5eb9b7 cterm=NONE,underline gui=NONE,undercurl
   hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#c39dd1 cterm=NONE,underline gui=NONE,undercurl
   hi StorageClass ctermfg=139 ctermbg=NONE guifg=#a88cb3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
